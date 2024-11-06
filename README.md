@@ -144,4 +144,60 @@
 <br><br>
 
 
+
 </div>
+<p align="center">
+
+<a href="https://github.com/sarfarajansari?tab=repositories">
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=sarfarajansari&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="48%" alt="@sarfarajansari's github-readme-stats"/>
+</a>
+<a href="https://github.com/sarfarajansari?tab=stars">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sarfarajansari&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" alt="@sarfarajansari's github-readme-streak-stats"/>
+</a>
+
+</p>
+
+<p align="center">
+    <img src="./assets/colored.png" width="100%" alt="kotlin_online_compiler"/>
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats-one-bice.vercel.app/api?username=sarfaraj-settyl&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="48%" alt="@sarfaraj-settyl's github-readme-stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=sarfaraj-settyl&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" alt="@sarfaraj-settyl's github-readme-streak-stats"/>
+
+</p>
+
+
+
+<p align="center">
+    <img src="./assets/colored.png" width="100%" alt="kotlin_online_compiler"/>
+</p>
+
+### Contribution graph
+<!-- activity graph heroku-app start -->
+<p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sarfarajansari&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph for sarfarajansari">
+</p>
+<!-- activity graph heroku-app end -->
+
+
+
+<p align="center">
+    <img src="./assets/colored.png" width="100%" alt="kotlin_online_compiler"/>
+</p>
+
+### At Sarfaraj Settyl
+<!-- activity graph heroku-app start -->
+<p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sarfaraj-settyl&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph for sarfaraj-settyl">
+</p>
+<!-- activity graph heroku-app end -->
+
+<p align="center">
+    <img src="https://profile-counter.glitch.me/{sarfarajansari}/count.svg" alt="sarfarajansari :: Visitor's Count" />
+</p>
+
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Contribution grid snake animation" style="max-width: 100%;">
+
+
