@@ -21,8 +21,6 @@
 <a href="https://docs.python.org/3/library/index.html"><img src="./assets/python-original.svg" alt="python" height="100" title="Python documentation"></a>
 <a href="https://www.tensorflow.org/api_docs"><img src="./assets/tensorflow.png" alt="react" height="100" title="React documentation"></a>
 <a href="https://docs.djangoproject.com/en/5.1/"><img src="./assets/django.png" alt="react" height="100" title="React documentation"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="./assets/html.png" alt="react" height="100" title="React documentation"></a>
-<a href="https://sass-lang.com/documentation/"><img src="./assets/sass.png" alt="react" height="100" title="React documentation"></a>
 <a href="https://www.selenium.dev/documentation/"><img src="./assets/selenium.png" alt="react" height="100" title="React documentation"></a>
 
 
