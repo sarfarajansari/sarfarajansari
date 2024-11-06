@@ -23,7 +23,7 @@
 <a href="https://docs.djangoproject.com/en/5.1/"><img src="./assets/django.png" alt="react" height="100" title="React documentation"></a>
 <a href="https://www.selenium.dev/documentation/"><img src="./assets/selenium.png" alt="react" height="100" title="React documentation"></a> 
 
-<div style="display:flex;align:center;width:100%;text-align:center;">
+<div style="display:flex;align:center;width:100%;text-align:center;" align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sarfarajansari&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=chartreuse-dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
@@ -202,6 +202,14 @@
 
 
 # Reach out to me #
+<div align="center">
+  <a href="https://www.linkedin.com/in/sarfaraj-ansari-a0a9441b9/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:sarfarajansaridev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+</div>
 
 
 
