@@ -21,10 +21,11 @@
 <a href="https://docs.python.org/3/library/index.html"><img src="./assets/python-original.svg" alt="python" height="100" title="Python documentation"></a>
 <a href="https://www.tensorflow.org/api_docs"><img src="./assets/tensorflow.png" alt="react" height="100" title="React documentation"></a>
 <a href="https://docs.djangoproject.com/en/5.1/"><img src="./assets/django.png" alt="react" height="100" title="React documentation"></a>
-<a href="https://www.selenium.dev/documentation/"><img src="./assets/selenium.png" alt="react" height="100" title="React documentation"></a>
+<a href="https://www.selenium.dev/documentation/"><img src="./assets/selenium.png" alt="react" height="100" title="React documentation"></a> 
 
-
-
+<div style="display:flex;align:center;width:100%;text-align:center;">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sarfarajansari&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=chartreuse-dark&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 # 💻 Additional tools and technologies
 <div style="display: flex; align-items: flex-start; align: center">
