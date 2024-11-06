@@ -1,16 +1,12 @@
-## Hi there 👋
+<!--suppress HtmlDeprecatedAttribute -->
+# Hello! 👋 Who am I? #
+<div>
+<br/>
+- 🔭 Full-stack developer with 3+ years of experience designing and building scalable, high-performance applications<br/>
+- 🌱 Proficient in front-end technologies like React JS, Ionic, as well as back-end technologies like Node.js, Python, Flask, FastAPI, Django<br/>
+- 👍 Experienced in DevOps, CI/CD, and Cloud infrastructure, especially with Azure and GCP also AWS<br/>
+- 🏢 Currently working at <a href="https://github.com/settyl">Settyl</a> and <a href="https://github.com/sarfaraj-settyl">Sarfaraj-Settyl</a> is my company github<br/>
+- 😍 Developed some AI Apps and integrated with web, some workflow automation app and many more random things I like.<br/>
+- 😉 Deep knowledge about deep learning, natural language processing, transformers and LLMS</br>
 
-<!--
-**sarfarajansari/sarfarajansari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
