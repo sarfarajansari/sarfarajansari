@@ -7,7 +7,7 @@
 - 👍 Experienced in DevOps, CI/CD, and Cloud infrastructure, especially with Azure and GCP also AWS<br/>
 - 🏢 Currently working at <a href="https://github.com/settyl">Settyl</a> and <a href="https://github.com/sarfaraj-settyl">Sarfaraj-Settyl</a> is my company github<br/>
 - 😍 Developed some AI Apps and integrated with web, some workflow automation app and many more random things I like.<br/>
-- 😉 Deep knowledge about deep learning, natural language processing, transformers and LLMS</br>
+- 😉 I've got some knowledge of ML and DL with tensorflow and I'm currently learning pytorch</br>
 
 </div>
 <br/>
