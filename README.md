@@ -1,5 +1,7 @@
 <!--suppress HtmlDeprecatedAttribute -->
-# Hello! 👋 Who am I? #
+[About Me](#hello--who-am-i) | [Main Skills](#main-skills) | [Tools & Technology](#-additional-tools-and-technologies) | [Stats](#stats) | [Projects](#do-you-want-to-see-my-past-work) | [Contact](#reach-out-to-me)
+
+# Hello! 👋 Who am I? 
 <div>
 <br/>
 - 🔭 Full-stack developer with 3+ years of experience designing and building scalable, high-performance applications<br/>
@@ -144,6 +146,7 @@
 </table>
 <br><br>
 
+# Stats
 
 
 </div>
