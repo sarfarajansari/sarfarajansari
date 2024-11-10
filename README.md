@@ -233,6 +233,19 @@ The **Garbage Redressal System** is an React application that enables people to 
 https://github.com/user-attachments/assets/6533b2f7-19f2-4738-986b-7a2ac28e3e96
 
 
+## [Human Detection Model Deployment](https://github.com/sarfarajansari/human-detection-model-deployment?tab=readme-ov-file#human-detection-model-deployment)
+
+This repository contains the deployment setup for a human detection model built by the AI club in my college. My role in this project was to to deploy the model with a user-friendly Streamlit interface for easy interaction.
+
+
+
+
+https://github.com/user-attachments/assets/dacc8fbe-96cc-4757-afee-e14c8d9a8064
+
+
+
+
+
 ## [Marvelous Ludo](https://github.com/sarfarajansari/ludo?tab=readme-ov-file#marvelous-ludo)
 
 **Marvelous Ludo** is a fun, superhero-themed twist on the classic Ludo game! Inspired by my love for Marvel, this game brings iconic Marvel characters into the gameplay, making it an exciting choice for fans. Select your favorite Marvel heroes and dive into an adventurous game of Ludo!
@@ -295,7 +308,7 @@ https://github.com/user-attachments/assets/0bf83a34-fdc0-4bef-9adb-025a1bc99039
 
 
 
-## Blog App 📝
+## [Blog App 📝](https://github.com/sarfarajansari/Blogs_APP?tab=readme-ov-file#blog-app-)
 
 A **Django-powered blog application** that lets users create, customize, and share their own blogs with a personalized touch. Featuring custom themes, authentication, and a clean UI, this app provides an engaging blogging experience for both writers and readers.
 
@@ -312,7 +325,16 @@ This is a simple **To-Do app** built in **React**—one of my very first React p
 
 
 
+
 https://github.com/user-attachments/assets/500827c1-8536-4271-a262-7f707ca8f684
+
+
+## [Streamlit Todo App](https://github.com/sarfarajansari/streamlit-todo-app?tab=readme-ov-file#streamlit-todo-app)
+
+This is a simple Todo app built with Streamlit. I created this project as an introduction to Streamlit, exploring its capabilities for building interactive, data-driven applications. The app provides a straightforward interface for managing tasks, allowing users to add, update, and delete items on their todo list.
+
+
+https://github.com/user-attachments/assets/a118c87d-0247-42e7-9389-44e965149fc1
 
 
 # Reach out to me #
