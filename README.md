@@ -351,3 +351,5 @@ https://github.com/user-attachments/assets/a118c87d-0247-42e7-9389-44e965149fc1
 </div>
 
 
+[About Me](#hello--who-am-i) | [Main Skills](#main-skills) | [Tools & Technology](#-additional-tools-and-technologies) | [Stats](#stats) | [Projects](#do-you-want-to-see-my-past-work) | [Contact](#reach-out-to-me)
+
