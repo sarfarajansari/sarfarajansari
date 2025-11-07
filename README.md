@@ -4,7 +4,7 @@
 # Hello! 👋 Who am I? 
 <div>
 <br/>
-- 🔭 Software development + Data science + deep learning
+- 🔭 Software development + Data science + deep learning<br/>
 - 🌱 Proficient in Data science, deeplearning, front-end technologies like React JS, Ionic, as well as back-end technologies like Node.js, Python, Flask, FastAPI, Django<br/>
 - 👍 Experienced in DevOps, CI/CD, and Cloud infrastructure, especially with Azure and GCP also AWS<br/>
 - 🏢 Currently working at <a href="https://github.com/settyl">Settyl</a> and <a href="https://github.com/sarfaraj-settyl">Sarfaraj-Settyl</a> is my company github<br/>
